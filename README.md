@@ -29,9 +29,7 @@ yarn add @crawlertoll/client
 
 Node 18+ (any runtime with a global `fetch`, `crypto.getRandomValues`, and ES2022 support — Bun, Deno, Cloudflare Workers, browsers).
 
-> 📦 Publishing to npm is pending creation of the `@crawlertoll` npm
-> organisation. Until then, install from git:
-> `npm install github:nhrzxxw9dn-web/crawlertoll-sdk-js`.
+[![npm](https://img.shields.io/npm/v/%40crawlertoll%2Fclient.svg)](https://www.npmjs.com/package/@crawlertoll/client) [![license](https://img.shields.io/npm/l/%40crawlertoll%2Fclient.svg)](./LICENSE)
 
 ## Quick start
 
