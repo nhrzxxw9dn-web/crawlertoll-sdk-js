@@ -7,7 +7,7 @@ paid access to structured publisher content.
 
 - **Spec**: [context-license.org/v0.1](https://context-license.org/v0.1) (CC0 1.0)
 - **Marketplace**: [crawlertoll.com](https://crawlertoll.com)
-- **Parser companion**: [`@crawlertoll/parser`](https://github.com/nhrzxxw9dn-web/crawlertoll-parser-js) — pure JSON Schema validator + TS types
+- **Parser companion**: [`@crawlertoll/parser`](https://github.com/charthouse-ltd/crawlertoll-parser-js) — pure JSON Schema validator + TS types
 - **License**: Apache 2.0 (this SDK). Spec itself is CC0.
 
 > **Status**: v0.1 skeleton. `discover()` and `query()` operate against
@@ -183,8 +183,12 @@ the spec freely.
 ## Contributing
 
 Pull requests welcome at
-[`github.com/nhrzxxw9dn-web/crawlertoll-sdk-js`](https://github.com/nhrzxxw9dn-web/crawlertoll-sdk-js).
+[`github.com/charthouse-ltd/crawlertoll-sdk-js`](https://github.com/charthouse-ltd/crawlertoll-sdk-js).
 
 When the `crawlertoll` GitHub organisation is created (per the v0.1
 launch plan), this repo moves to `github.com/crawlertoll/sdk-js`. The
 npm name `@crawlertoll/client` is reserved against that move.
+
+## Trademark
+
+CrawlerToll™ is a trademark of Charthouse Ltd.

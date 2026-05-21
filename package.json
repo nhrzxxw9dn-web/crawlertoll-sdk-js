@@ -1,16 +1,16 @@
 {
   "name": "@crawlertoll/client",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Buyer SDK for CrawlerToll — discover publishers, query MCP endpoints, verify signed attestation envelopes. Built for Claude Agent SDK developers.",
   "license": "Apache-2.0",
   "author": "Charthouse Ltd",
   "homepage": "https://crawlertoll.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhrzxxw9dn-web/crawlertoll-sdk-js.git"
+    "url": "git+https://github.com/charthouse-ltd/crawlertoll-sdk-js.git"
   },
   "bugs": {
-    "url": "https://github.com/nhrzxxw9dn-web/crawlertoll-sdk-js/issues"
+    "url": "https://github.com/charthouse-ltd/crawlertoll-sdk-js/issues"
   },
   "keywords": [
     "crawlertoll",

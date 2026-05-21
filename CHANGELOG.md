@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.2 — 2026-05-21
+
+### Changed
+
+- Repository URL updated after the GitHub org rename `nhrzxxw9dn-web` → `charthouse-ltd` (npm scope unchanged: `@crawlertoll/*`). Metadata-only release; no code changes.
+
 ## v0.1.1 — 2026-05-19
 
 - **Bump minimum Node to 20.** `@noble/ed25519` reads
